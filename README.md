@@ -1,2 +1,2 @@
 # website
-This is dummy project
+This is website project
