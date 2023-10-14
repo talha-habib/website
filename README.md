@@ -1,2 +1,2 @@
 # website
-This is website project
+This is GIT HUb Workshop
